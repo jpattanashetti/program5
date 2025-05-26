@@ -1,4 +1,3 @@
-package program5;
 public class Fibonacci {
 
     public static void generateFibonacci(int n) {
